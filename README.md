@@ -1,4 +1,11 @@
 # AlienGame
-This game is using Python language with Pygame library.
+This game is using Python language with Pygame library. 
 
-! [Alina Willow] (https://drive.google.com/file/d/1e9L4DwJDkdO8hcwDhTzk_-j680kQ-fmZ/view?usp=sharing)
+![Aliengame_pic](https://user-images.githubusercontent.com/68222855/87849201-d8ab8300-c910-11ea-8bfb-3cb94d6eef48.PNG)
+---
+## Control key
+>_**space bar**_  shooting bullet.
+>
+>**_left arrow key_** control left movement.
+>
+>**_Right arrow key_**  control right movement.
